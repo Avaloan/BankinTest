@@ -1,0 +1,16 @@
+{
+  "name": "bankin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "node-fetch": "^2.5.0"
+  }
+}
