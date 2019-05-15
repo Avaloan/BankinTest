@@ -4,7 +4,7 @@
   "description": "",
   "main": "test.js",
   "scripts": {
-    "start": "node test.js"
+    "start": "node sumTheAccounts.js"
   },
   "keywords": [],
   "author": "",
